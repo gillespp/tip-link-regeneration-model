@@ -1,2 +1,2 @@
 # tip-link-regeneration-model
-Contains code for tip-link regeneration simulation
+Code for tip-link regeneration simulation
